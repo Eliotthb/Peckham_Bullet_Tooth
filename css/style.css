@@ -43,7 +43,7 @@ body {
     position: absolute;
     height: 24px;
     width: 63px;
-    background-image: url('ui/5_Button_D_1.png');
+    background-image: url('/ui/5_Button_D_1.png');
     bottom: 26px;
     left: 22px;
     cursor: pointer;
@@ -57,7 +57,7 @@ body {
     position: absolute;
     height: 24px;
     width: 71px;
-    background-image: url('ui/6_Button_S_1.png');
+    background-image: url('css/ui/6_Button_S_1.png');
     bottom: 26px;
     left: 125px;
     cursor: pointer;
@@ -86,7 +86,7 @@ body {
     position: absolute;
     height: 58px;
     width: 145px;
-    background-image: url('ui/stat_1.png');
+    background-image: url('Peckham_Bullet_Tooth/css/ui/stat_1.png');
     top: 285px;
     right: 150px;
     cursor: pointer;
