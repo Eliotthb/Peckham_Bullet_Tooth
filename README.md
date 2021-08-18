@@ -1,5 +1,5 @@
 # Peckham Bullet-tooth
-> CGS Individual Project
+> CGS Individual Project (Production)
   
 This project was created by Eliott Herbert-Byrnes for UFCFBK-60-M - Commercial games studio as part of the Commercial Game Development MSc course 2021.
 
